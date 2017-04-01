@@ -1,6 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/OpenGL.hpp>
-#include <sfmlimgui.h>
+#include <SFML_ImGUI.h>
 
 int main()
 {
